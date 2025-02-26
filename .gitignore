@@ -1,0 +1,3 @@
+.venv
+helmet_dataset/images
+helmet_detection_convnext.pth
